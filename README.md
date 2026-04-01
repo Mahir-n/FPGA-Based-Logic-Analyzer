@@ -94,8 +94,6 @@ fpga-logic-analyzer/
 ├── python/
 │   └── logic_analyzer_viewer.py  # Host PC waveform viewer
 │
-├── report/                       # LaTeX report source
-│
 └── README.md
 ```
 
